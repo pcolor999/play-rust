@@ -7,4 +7,4 @@ fn main() {
         println!("{}", i);
         thread::sleep(duration);
     }
-}   
+}
